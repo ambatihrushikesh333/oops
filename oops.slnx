@@ -1,5 +1,6 @@
 <Solution>
   <Project Path="ConsoleApp1/ConsoleApp1.csproj" />
+  <Project Path="ConsoleApp2/school.csproj" />
   <Project Path="constructor/constructor.csproj" />
   <Project Path="oops/oops.csproj" />
 </Solution>
