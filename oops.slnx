@@ -1,6 +1,8 @@
 <Solution>
-  <Project Path="ConsoleApp1/ConsoleApp1.csproj" />
-  <Project Path="ConsoleApp2/school.csproj" />
-  <Project Path="constructor/constructor.csproj" />
-  <Project Path="oops/oops.csproj" />
+  <Project Path="ConsoleApp1/ConsoleApp1.csproj" Id="5bce2786-b668-4158-b34e-fa5a735ac866" />
+  <Project Path="ConsoleApp2/school.csproj" Id="72be0adf-2b36-40f4-bcf4-6c8901ba5b3e" />
+  <Project Path="Constructor-Overload/Constructor-Overload.csproj" Id="fae776b9-41fd-4b8e-b1cd-4adc0989f183" />
+  <Project Path="constructor/constructor.csproj" Id="3e99f408-d9bd-4be7-a19d-f61cdbc76bcf" />
+  <Project Path="oops/oops.csproj" Id="b875bb72-f92e-415e-8a5b-50bef371468c" />
+  <Project Path="SOLID-Principe/SOLID-Principe.csproj" Id="8e99bc89-82ec-47b8-987d-0e99e53d21f4" />
 </Solution>
