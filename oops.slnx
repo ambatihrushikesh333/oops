@@ -3,6 +3,7 @@
   <Project Path="ConsoleApp2/school.csproj" Id="72be0adf-2b36-40f4-bcf4-6c8901ba5b3e" />
   <Project Path="Constructor-Overload/Constructor-Overload.csproj" Id="fae776b9-41fd-4b8e-b1cd-4adc0989f183" />
   <Project Path="constructor/constructor.csproj" Id="3e99f408-d9bd-4be7-a19d-f61cdbc76bcf" />
+  <Project Path="Inheritance/Inheritance.csproj" Id="dd26caa1-cd9d-47ee-9847-5eb2a7500827" />
   <Project Path="Internal-AM/Internal-AM.csproj" Id="75b26961-c406-4dc7-adb3-a412c43a6aba" />
   <Project Path="oops/oops.csproj" Id="b875bb72-f92e-415e-8a5b-50bef371468c" />
   <Project Path="private/private.csproj" Id="094eb02d-688b-40db-a8bf-eb09b953fda3" />

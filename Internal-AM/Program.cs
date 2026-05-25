@@ -28,6 +28,7 @@ namespace Internal_AM
         {
             myclaas obj1 = new myclaas();
             obj1.myMethod();
+            Console.WriteLine("value of a under main method is " + obj1.a);
             newclass obj2 = new newclass();
             obj2.newMethod();
         }
